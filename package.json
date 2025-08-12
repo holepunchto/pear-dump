@@ -1,6 +1,6 @@
 {
   "name": "pear-dump",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "main": "index.js",
   "type": "commonjs",
   "description": "Synchronize files from link to dir peer-to-peer or from-disk",
